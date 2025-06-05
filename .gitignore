@@ -1,0 +1,25 @@
+# Ignore virtual environment
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore IPython/Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Ignore common IDE files
+.vscode/
+.idea/
+
+# Ignore ML artifacts and models
+# These are often large and regenerated during setup or training.
+# Uncomment/adjust based on what artifacts you DO or DO NOT want to track.
+artifacts/
+rank_model/
+checkpoints/
+
+# Ignore data files that are generated or very large
+# data/
+# If you want to track raw_data.json, uncomment the line below:
+!data/raw_data.json 
