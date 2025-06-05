@@ -310,4 +310,4 @@ This will prompt you to input a ticket. The script will return the top-3 most si
 
 **Shraddha Gupte**
 *Data Scientist | Machine Learning | NLP | LLM | Product Strategy*
-🔗 [LinkedIn](https://www.linkedin.com/in/shraddha-gupte/) | 🌐 [GitHub](https://github.com/shraddhagupte)
+🔗 [LinkedIn](https://www.linkedin.com/in/shraddha-gupte/) | 🌐 [GitHub](https://github.com/ShraddhaGupte97)
