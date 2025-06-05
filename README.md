@@ -1,4 +1,4 @@
-# 🎫 Ticket Search & Analysis
+# 🎫 Semantic Ticket Search
 
 This project is a machine learning-powered tool for **semantic ticket retrieval** and **workload analysis**. Inspired by real-world enterprise workflows, it simulates how analysts can reduce manual effort by automatically surfacing relevant historical support tickets.
 
